@@ -1,4 +1,4 @@
-# FinderTainment
+# Joyer
 this repository will contain two folders, one for the frontend and one for the backend.
 each will contain the relevant crew's needs.
 
