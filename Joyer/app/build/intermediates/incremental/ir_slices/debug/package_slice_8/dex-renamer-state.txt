@@ -1,0 +1,4 @@
+#Sun Jan 12 09:43:03 IST 2020
+base.0=C\:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Joyer</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="joyer"><u>Joyer</u></string>
+    <string name="joyer_catch_phrase">find the entertainment you desire. let the joy look for you</string>
+    <string name="decision_question">want to go out but cant decide on where to go?</string>
+    <string name="choose_answer">now, thanks to joyer, thousands of places will be at your disposal. just choose whatever you desire</string>
+    <string name="danger_question">there are places that I wish to stay away from.</string>
+    <string name="danger_answer">Don\'t worry! Joyer is designed with special AI that learns what you love to do and what you won\'t enjoy. And will offer you only places that it knows are best fitted for you</string>
+    <string name="checkin_question">What about check-in? I don\'t want things to mess up because the place is full.</string>
+    <string name="checkin_answer">We\'ve got your back! when you decide on a place to go to. you can press \'check me in\' button, assign all your friends and contacts. And Joyer will take care of checking you in and send out invitations to all of your invited friends for approval.</string>
+</resources>
