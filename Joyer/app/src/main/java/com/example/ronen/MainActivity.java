@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
         CardView card_view = (CardView) findViewById(R.id.cardView);
         TextView text_view = (TextView) findViewById(R.id.textView2);
         TextView more_info = (TextView) findViewById(R.id.more_info);
+        TextView guest_login = (TextView) findViewById(R.id.guest_login);
+
 
 
 
@@ -75,6 +77,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this, MoreInfo.class));
+
+            }
+        });
+        guest_login.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, DashBoard.class));
 
             }
         });

@@ -994,10 +994,13 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable accept
 drawable alert
 drawable app_logo
 drawable avd_hide_password
 drawable avd_show_password
+drawable cancel
+drawable clock
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1029,15 +1032,21 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pin
 drawable question
+drawable review
+drawable scroll
+drawable search
 drawable survey
 drawable title_text
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable user_profiles
 id ALT
 id CTRL
 id FUNCTION
 id META
+id NavBar
 id SHIFT
 id SYM
 id action_bar
@@ -1119,6 +1128,7 @@ id group_divider
 id groups
 id guestAndRegLayout
 id guest_login
+id history_button
 id home
 id homeAsUp
 id icon
@@ -1137,6 +1147,7 @@ id line3
 id linearLayout
 id listMode
 id list_item
+id map_button
 id masked
 id message
 id middle
@@ -1160,6 +1171,7 @@ id parentPanel
 id parent_matrix
 id percent
 id pin
+id profile_button
 id progress_circular
 id progress_horizontal
 id radio
@@ -1169,6 +1181,7 @@ id right_side
 id save_image_matrix
 id save_non_transition_alpha
 id save_scale_type
+id saved_button
 id screen
 id scroll
 id scrollIndicatorDown
@@ -1191,6 +1204,15 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
+id slider
+id slider_accept_button
+id slider_buissness_address
+id slider_buissness_match
+id slider_buissness_name
+id slider_buissness_open
+id slider_buttons
+id slider_decline_button
+id slider_picture_layout
 id smallLabel
 id snackbar_action
 id snackbar_text
@@ -1291,6 +1313,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_dash_board
 layout activity_main
 layout activity_more_info
 layout activity_sign_up
@@ -1320,6 +1343,7 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout slide_layout
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_foreground
@@ -1371,6 +1395,7 @@ string character_counter_pattern
 string checkin_answer
 string checkin_question
 string choose_answer
+string d_i_s_c_o_v_e_r
 string danger_answer
 string danger_question
 string decision_question
@@ -1964,4 +1989,3 @@ styleable Toolbar android_gravity android_minHeight buttonGravity collapseConten
 styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewStubCompat android_id android_layout android_inflatedId
-xml network_security_config

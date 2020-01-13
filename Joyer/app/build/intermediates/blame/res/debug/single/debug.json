@@ -196,6 +196,10 @@
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scroll.png.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\drawable\\scroll.png"
+    },
+    {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
@@ -232,6 +236,10 @@
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_accept.png.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\drawable\\accept.png"
+    },
+    {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -246,6 +254,10 @@
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\47260f462d5f88fab28ca6b4349efacc\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancel.png.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\drawable\\cancel.png"
     },
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -292,12 +304,12 @@
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_survey.png.flat",
         "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\drawable\\survey.png"
+    },
+    {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -314,6 +326,10 @@
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_review.png.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\drawable\\review.png"
     },
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -630,6 +646,10 @@
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide_layout.xml.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\layout\\slide_layout.xml"
     },
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -1212,6 +1232,10 @@
         "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clock.png.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
@@ -1316,10 +1340,6 @@
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\47260f462d5f88fab28ca6b4349efacc\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
-        "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\xml\\network_security_config.xml"
-    },
-    {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -1338,6 +1358,10 @@
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dash_board.xml.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\layout\\activity_dash_board.xml"
     },
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
@@ -1370,6 +1394,10 @@
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\drawable\\search.png"
     },
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
@@ -1510,6 +1538,10 @@
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pin.png.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\drawable\\pin.png"
     },
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -2034,6 +2066,10 @@
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_profiles.png.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\src\\main\\res\\drawable\\user_profiles.png"
     },
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
