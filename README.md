@@ -34,3 +34,6 @@ you dont want that. that's why you need to folow the rules:
 
 - SHARE LINKS OF EXTERNAL OR UNCOMMON API DOCUMENTATION: using an external API that you just learned? somthing uncommon that
   most chances are that we dont know it either? share its documentation and enlighten us with your knowledge
+
+  
+  good luck!
