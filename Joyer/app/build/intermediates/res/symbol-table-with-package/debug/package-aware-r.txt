@@ -1553,6 +1553,8 @@ id group_divider
 id groups
 id guestAndRegLayout
 id guest_login
+id histoArr
+id historyImage
 id home
 id homeAsUp
 id icon
@@ -1785,6 +1787,8 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_dash_board
+layout activity_history
+layout activity_history_row_layout
 layout activity_main
 layout activity_more_info
 layout activity_sign_up

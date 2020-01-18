@@ -2024,6 +2024,10 @@
         "source": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history_row_layout.xml.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\src\\main\\res\\layout\\activity_history_row_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
@@ -2138,6 +2142,10 @@
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\src\\main\\res\\layout\\activity_history.xml"
     },
     {
         "merged": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",

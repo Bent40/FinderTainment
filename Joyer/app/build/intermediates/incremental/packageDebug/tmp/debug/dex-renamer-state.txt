@@ -1,4 +1,4 @@
-#Sat Jan 18 22:25:51 IST 2020
+#Sat Jan 18 23:35:28 IST 2020
 base.0=C\:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex
