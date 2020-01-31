@@ -21,10 +21,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.ronen.history_page" />
         <activity
             android:name="com.example.ronen.DashBoard"
-            android:theme="@style/AppTheme.NoActionBar" >
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.ronen.MoreInfo" />
         <activity
             android:name="com.example.ronen.SignUp"

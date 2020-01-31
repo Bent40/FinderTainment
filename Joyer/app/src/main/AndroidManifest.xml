@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.ronen">
 
-    <uses-permission android:name="android.permission.INTERNET" />
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -11,10 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".DashBoard"
-		android:theme="@style/AppTheme.NoActionBar">
-            
-        </activity>
+        <activity android:name=".history_page"></activity>
+        <activity
+            android:name=".DashBoard"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity android:name=".MoreInfo" />
         <activity
             android:name=".SignUp"
@@ -28,5 +26,7 @@
             </intent-filter>
         </activity>
     </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
 </manifest>

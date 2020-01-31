@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "outputFile": "C:\\Users\\OmriB\\OneDrive\\Desktop\\Programming\\Joyer\\Joyer-Front\\Joyer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "source": "C:\\Users\\OmriB\\.gradle\\caches\\transforms-2\\files-2.1\\fe9d0423332ee20adbeaf478de4e1812\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

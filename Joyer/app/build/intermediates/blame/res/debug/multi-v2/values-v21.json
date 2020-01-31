@@ -1,29 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\OmriB\\OneDrive\\Desktop\\Programming\\Joyer\\Joyer-Front\\Joyer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\47260f462d5f88fab28ca6b4349efacc\\res\\values-v21\\values-v21.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,13",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
-                        "endLines": "2,3,4,5,6,7,8,9,12,17",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,306,307,308,309,342,345",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,223,290,21864,21980,22106,22232,24073,24245",
-                        "endLines": "2,3,4,5,306,307,308,309,344,349",
-                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
-                        "endOffsets": "154,218,285,349,21975,22101,22227,22355,24240,24578"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\OmriB\\.gradle\\caches\\transforms-2\\files-2.1\\fe9d0423332ee20adbeaf478de4e1812\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,19,20,21,22,24,26,27,28,29,30,32,34,36,38,40,42,43,48,50,52,53,54,56,58,59,60,61,62,63,107,110,154,157,160,162,164,166,169,171,174,175,176,179,180,181,182,183,184,187,188,190,192,194,196,200,202,203,204,205,207,211,213,215,216,217,218,219,221,222,223,233,234,235,247",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,7 +23,26 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\695383c2c4db07904a73ff8d04bd8f56\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\OmriB\\.gradle\\caches\\transforms-2\\files-2.1\\8e8f690dc0ce9968c6eb78a42b83905a\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,7,12,16,21,26,30,35,40",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,283,606,794,1153,1488,1700,2039,2354",
+                        "endLines": "2,6,11,15,20,25,29,34,39,44",
+                        "endColumns": "51,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "102,278,601,789,1148,1483,1695,2034,2349,2652"
+                    },
+                    "to": {
+                        "startLines": "6,226,230,235,239,244,249,253,258,263",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "354,16965,17141,17464,17652,18011,18346,18558,18897,19212",
+                        "endLines": "6,229,234,238,243,248,252,257,262,267",
+                        "endColumns": "51,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "401,17136,17459,17647,18006,18341,18553,18892,19207,19510"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OmriB\\.gradle\\caches\\transforms-2\\files-2.1\\d14e3d86ad42181f747533889e7aae65\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,10,18,26",
                         "startColumns": "4,4,4,4",
@@ -61,22 +61,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\39648935200c9da7547843b1081efc9e\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\OmriB\\.gradle\\caches\\transforms-2\\files-2.1\\e483df6de7769bb8d921b3e4c9970f76\\res\\values-v21\\values-v21.xml",
                     "from": {
-                        "startLines": "2,3,7,12,16,21,26,30,35,40",
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,107,283,606,794,1153,1488,1700,2039,2354",
-                        "endLines": "2,6,11,15,20,25,29,34,39,44",
-                        "endColumns": "51,12,12,12,12,12,12,12,12,12",
-                        "endOffsets": "102,278,601,789,1148,1483,1695,2034,2349,2652"
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
                     },
                     "to": {
-                        "startLines": "6,226,230,235,239,244,249,253,258,263",
+                        "startLines": "2,3,4,5,306,307,308,309,342,345",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "354,16965,17141,17464,17652,18011,18346,18558,18897,19212",
-                        "endLines": "6,229,234,238,243,248,252,257,262,267",
-                        "endColumns": "51,12,12,12,12,12,12,12,12,12",
-                        "endOffsets": "401,17136,17459,17647,18006,18341,18553,18892,19207,19510"
+                        "startOffsets": "55,159,223,290,21864,21980,22106,22232,24073,24245",
+                        "endLines": "2,3,4,5,306,307,308,309,344,349",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,21975,22101,22227,22355,24240,24578"
                     }
                 }
             ]

@@ -6133,7 +6133,7 @@ public final class R {
     public static final int abc_select_dialog_material=0x7f0b001a;
     public static final int abc_tooltip=0x7f0b001b;
     public static final int activity_dash_board=0x7f0b001c;
-    public static final int activity_history=0x7f0b001d;
+    public static final int activity_history_page=0x7f0b001d;
     public static final int activity_history_row_layout=0x7f0b001e;
     public static final int activity_main=0x7f0b001f;
     public static final int activity_more_info=0x7f0b0020;

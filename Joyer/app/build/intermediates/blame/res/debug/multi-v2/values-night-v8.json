@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\OmriB\\OneDrive\\Desktop\\Programming\\Joyer\\Joyer-Front\\Joyer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\ccdf57b03dba6c182e4744494007c8f0\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\OmriB\\.gradle\\caches\\transforms-2\\files-2.1\\8e8f690dc0ce9968c6eb78a42b83905a\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,141,263,361,495,573,687,753",
+                        "endColumns": "85,121,97,133,77,113,65,101",
+                        "endOffsets": "136,258,356,490,568,682,748,850"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OmriB\\.gradle\\caches\\transforms-2\\files-2.1\\fe9d0423332ee20adbeaf478de4e1812\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -18,16 +28,6 @@
                         "startOffsets": "855,925,1009,1093,1189,1291,1393",
                         "endColumns": "69,83,83,95,101,101,93",
                         "endOffsets": "920,1004,1088,1184,1286,1388,1482"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\39648935200c9da7547843b1081efc9e\\res\\values-night-v8\\values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,141,263,361,495,573,687,753",
-                        "endColumns": "85,121,97,133,77,113,65,101",
-                        "endOffsets": "136,258,356,490,568,682,748,850"
                     }
                 }
             ]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\idane\\Desktop\\ort\\JoyerProject-Front\\newJoyerGit\\Joyer-Front\\Joyer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\Users\\OmriB\\OneDrive\\Desktop\\Programming\\Joyer\\Joyer-Front\\Joyer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\idane\\.gradle\\caches\\transforms-2\\files-2.1\\39648935200c9da7547843b1081efc9e\\res\\values-v11\\values-v11.xml",
+                    "source": "C:\\Users\\OmriB\\.gradle\\caches\\transforms-2\\files-2.1\\8e8f690dc0ce9968c6eb78a42b83905a\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2,8,12,17,23,27,36,41,45,49",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
